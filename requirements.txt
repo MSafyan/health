@@ -1,0 +1,9 @@
+asgiref 
+certifi==2020.12.5
+Django 
+django-cors-headers==3.7.0
+djangorestframework==3.12.2
+psycopg2 
+pytz 
+sqlparse 
+wincertstore==0.2
